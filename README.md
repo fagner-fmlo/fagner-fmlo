@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fagner Mendes
 
-- 🔭 Eu hoje estou trabalhando com automação em SOC (SOAR/DevSecops) ...
-- 🌱 Graduado em Redes de computadores / Especialista em Cloud Computing e estudando no momento segurança ofensiva ...
+- 🔭 Eu hoje estou trabalhando com automation security
+- 🌱 Graduado em Redes de computadores / Especialista em Cloud Computing e estudando no momento segurança ofensiva...
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
