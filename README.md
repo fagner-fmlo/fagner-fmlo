@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fagner Mendes
 
-- 🔭 Eu hoje estou trabalhando com automation security
-- 🌱 Graduado em Redes de computadores / Especialista em Cloud Computing e estudando no momento segurança ofensiva...
+- 🔭 Eu hoje estou trabalhando com Automação de segurança e resposta a incidentes
+- 🌱 Graduado em Redes de Computadores / Especialista em Cloud Computing e estudando no momento segurança ofensiva e programação Python...
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
@@ -13,6 +13,7 @@
   
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
   
   ##
