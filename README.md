@@ -1,7 +1,7 @@
-### Olá! Eu sou o Fagner Mendes
+### Olá! Eu sou Fagner Mendes
 
-- 🔭 Eu hoje estou trabalhando com Automação de segurança e resposta a incidentes
-- 🌱 Graduado em Redes de Computadores / Especialista em Cloud Computing e estudando no momento segurança ofensiva e programação Python...
+- 🔭 Grande entusiasta do Linux, atuei durante 7,5 anos como Syadmin na área de WebHost. Atualmente estou trabalhando com Automação de segurança e resposta à incidentes
+- 🌱 Sou Graduado em Redes de Computadores / Especialista em Cloud Computing e no momento ando estudando segurança ofensiva e programação Python...
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
@@ -14,6 +14,8 @@
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
+  <img align="center" alt="Perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
   ##
