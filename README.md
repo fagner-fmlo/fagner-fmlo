@@ -1,7 +1,7 @@
 ### Olá! Eu sou Fagner Mendes
 
 - 🔭 Grande entusiasta do Linux, atuei durante 7,5 anos como Sysadmin na área de WebHost. Atualmente estou trabalhando com Automação de segurança e resposta à incidentes
-- 🌱 Sou Graduado em Redes de Computadores / Especialista em Cloud Computing e no momento ando estudando segurança ofensiva e programação Python...
+- 🌱 Sou Graduado em Redes de Computadores / Pós-graduado em Cloud Computing e no momento ando estudando segurança ofensiva e programação Python...
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
