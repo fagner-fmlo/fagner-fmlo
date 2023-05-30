@@ -2,7 +2,6 @@
 
 - 🔭 Entusiasta do Linux, atuei durante quase 8 anos como Sysadmin na área de WebHost. Atualmente estou trabalhando com Automação de segurança e resposta à incidentes/DevSecOps
 - 🌱 Sou Graduado em Redes de Computadores / Pós-graduado em Cloud Computing e no momento estou em minha segunda pós graduação em Cybersecurity - (Detecção de ameação e proteção de sistemas) em paralelo, nas horas vagas estudo programação Python...
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/fagner-fmlo/fagner-fmlo">
