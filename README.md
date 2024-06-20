@@ -1,4 +1,4 @@
-### Olá! Eu sou Fagner Mendes (cybersys_br_
+### Olá! Eu sou Fagner Mendes (cybersys_br_)
 
 - 🔭 Entusiasta do Linux, atuei durante 8 anos como Sysadmin na área de WebHost. Atualmente estou trabalhando com Defense Analyst (Blue Team)
 - 🌱 Sou Graduado em Redes de Computadores / Pós-graduado em Cloud Computing e Cybersecurity - (Detecção de ameação e proteção de sistemas) em paralelo, nas horas vagas estudo programação Python...
