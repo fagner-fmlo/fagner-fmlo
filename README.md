@@ -1,7 +1,21 @@
-### Olá! Eu sou Fagner Mendes (cybersys_br_)
+# Olá! Eu sou Fagner Mendes (cybersysbr)
 
-- 🔭 Entusiasta do Linux, atuei durante 8 anos como Sysadmin na área de WebHost. Atualmente estou trabalhando com Defense Analyst (Blue Team)
-- 🌱 Sou Graduado em Redes de Computadores / Pós-graduado em Cloud Computing e Cybersecurity - (Detecção de ameação e proteção de sistemas) em paralelo, nas horas vagas estudo programação Python...
+🔐 Pesquisador independente em Segurança da Informação
+
+- 🔍 Foco em **Threat Intelligence** e **Threat Hunting**
+- 🐧 Entusiasta Linux desde os primórdios
+- 🎓 Graduado em Redes de Computadores | Pós-graduado em Cloud Computing e Cybersecurity
+- 🐍 Estudando Python para automação de segurança
+
+## 🔬 Pesquisa
+
+Publico análises de ameaças e indicadores de comprometimento no repositório:
+
+[![Repo](https://img.shields.io/badge/cybersysbr--research-Threat%20Intelligence-blue?logo=github)](https://github.com/fagner-fmlo/cybersysbr-research)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/fagnermendess)
 
 <div align="center">
   <a href="https://github.com/fagner-fmlo/fagner-fmlo">
