@@ -13,10 +13,6 @@ Publico análises de ameaças e indicadores de comprometimento no repositório:
 
 [![Repo](https://img.shields.io/badge/cybersysbr--research-Threat%20Intelligence-blue?logo=github)](https://github.com/fagner-fmlo/cybersysbr-research)
 
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/fagnermendess)
-
 <div align="center">
   <a href="https://github.com/fagner-fmlo/fagner-fmlo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fagner-fmlo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
