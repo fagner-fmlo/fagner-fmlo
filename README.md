@@ -1,44 +1,83 @@
-# Olá! Eu sou Fagner Mendes (cybersysbr)
+# Fagner Mendes Oliveira | cybersysbr
 
-🔐 Pesquisador independente em Segurança da Informação
+**Blue Team Analyst | Threat Hunter | SOC Analyst | Incident Response | Threat Intelligence**
 
-- 🔍 Foco em **Threat Intelligence** e **Threat Hunting**
-- 🐧 Entusiasta Linux desde os primórdios
-- 🎓 Graduado em Redes de Computadores | Pós-graduado em Cloud Computing e Cybersecurity
-- 🐍 Estudando Python para automação de segurança
+Profissional de Segurança da Informação com mais de 12 anos de experiência em TI, sendo 4+ anos com foco em Cybersecurity, Blue Team, Threat Hunting, Threat Intelligence e Incident Response em ambiente MSSP.
 
-## 🔬 Pesquisa
+Atuo na investigação de alertas de segurança, correlação de eventos em SIEM/XDR, enriquecimento de IoCs, análise de comportamento suspeito, resposta a incidentes e identificação de oportunidades de melhoria em processos de SOC.
 
-Publico análises de ameaças e indicadores de comprometimento no repositório:
+Minha abordagem é orientada a comportamento, contexto e risco, utilizando MITRE ATT&CK, análise de IoCs/IoAs, Threat Intelligence e pivotamento técnico para apoiar investigações e decisões de resposta.
 
-[![Repo](https://img.shields.io/badge/cybersysbr--research-Threat%20Intelligence-blue?logo=github)](https://github.com/fagner-fmlo/cybersysbr-research)
+---
 
-<div align="center">
-  <a href="https://github.com/fagner-fmlo/fagner-fmlo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fagner-fmlo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagner-fmlo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  
-<div>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
-  <img align="center" alt="Perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fagnermendesoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+## Áreas de Atuação
 
+- Threat Hunting baseado em hipóteses e MITRE ATT&CK
+- Threat Intelligence e análise de IoCs/TTPs
+- Incident Response e investigação de alertas em ambiente SOC
+- SIEM, XDR, SOAR e automação de resposta
+- Análise de campanhas, vulnerabilidades exploradas e infraestrutura maliciosa
+- Enriquecimento de indicadores com VirusTotal, AlienVault OTX, AbuseIPDB, IBM X-Force e Cisco Talos
+- Correlação de eventos em múltiplas fontes de log e ambientes de clientes
 
+---
+
+## Pesquisas e Publicações
+
+### CybersysBR Research
+
+Repositório dedicado à publicação de pesquisas técnicas em Threat Intelligence, Threat Hunting, análise de campanhas maliciosas, IoCs, TTPs, MITRE ATT&CK e documentação defensiva para a comunidade de segurança.
+
+Destaques:
+
+- Exploração ativa da CVE-2010-1871 em campanha de cryptomining
+- Análise comportamental do Lumma Stealer
+- Mapeamento MITRE ATT&CK
+- Indicadores de comprometimento em formato técnico
+- Relatórios voltados à comunidade de Threat Intelligence
+
+Repositório:  
+https://github.com/fagner-fmlo/cybersysbr-research
+
+---
+
+## Publicações em Destaque
+
+### Análise Comportamental e Técnicas de Detecção do Lumma Stealer
+
+Pesquisa técnica sobre o Lumma Stealer, malware-as-a-service associado a roubo de credenciais, evasão, uso de infraestrutura resiliente e reorganização operacional após ações de takedown.
+
+A pesquisa aborda vetores de infecção, técnicas de evasão, indicadores de comprometimento, TTPs mapeadas ao MITRE ATT&CK e contexto do ecossistema MaaS.
+
+DOI:  
+https://doi.org/10.5281/zenodo.18939666
+
+---
+
+### Relatório Técnico — Exploração Ativa da CVE-2010-1871
+
+Análise técnica de campanha ativa explorando a CVE-2010-1871, vulnerabilidade crítica de Remote Code Execution no JBoss Seam 2.
+
+O report documenta cadeia de ataque, infraestrutura maliciosa, IoCs, uso de cryptomining, mapeamento MITRE ATT&CK e recomendações defensivas.
+
+Repositório:  
+https://github.com/fagner-fmlo/cybersysbr-research
+
+---
+
+## Tecnologias e Ferramentas
+
+- SIEM: Elastic Stack, QRadar, LogAnalysis
+- XDR/EDR: Trend Micro Vision One, Apex Central
+- SOAR: automação, runbooks, playbooks e workflows de resposta
+- Threat Intelligence: VirusTotal, AlienVault OTX, AbuseIPDB, IBM X-Force, Cisco Talos
+- Frameworks: MITRE ATT&CK, Diamond Model, STIX/TAXII
+- Sistemas: Linux, Windows Server, serviços Web, DNS, E-mail e Banco de Dados
+- Automação: Python, Shell Script
+
+---
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/fagnermendesoliveira/  
+Zenodo: https://doi.org/10.5281/zenodo.18939666
